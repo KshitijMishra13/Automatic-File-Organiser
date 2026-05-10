@@ -1,5 +1,5 @@
 # Automatic-File-Organiser
-# File Organizer Automation
+## File Organizer Automation
 
 A Python automation project that automatically organizes files into folders based on their file type.
 
